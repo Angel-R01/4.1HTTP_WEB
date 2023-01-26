@@ -3,8 +3,6 @@
 
 
 
-        ServerName alias.angelrr.edu
-
         ServerAlias *.alias.angelrr.edu 
 
         ServerAdmin webmaster@localhost
