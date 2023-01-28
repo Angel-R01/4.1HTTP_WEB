@@ -14,9 +14,11 @@ $TTL    604800
 
 10                                      IN PTR angelrr-linux.angelrr.edu.
 
+10                                      IN PTR otro.angelrr.edu.
+
 10                                      IN PTR virtual1.angelrr.edu.
 
 10                                      IN PTR virutal2.angelrr.edu.
 
-10                                      IN PTR prueba.angelrr.edu.
+
 
